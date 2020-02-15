@@ -1,9 +1,48 @@
 body {
-  background-color: tan;
+  background-color: #8B4513;
 }
 
 h1 {
-  color: orange;
+  color: white;
   text-align: center;
   font-family: Bahnschrift Light;
+}
+input[type=number]{
+width:60%;
+padding: 12 px; 20px;
+margin: 8px 0;
+box-sizing: border-box;
+border: none;
+background-color: #D2B48C;
+color: white;
+front-size: 17px;
+}
+#mask_slash{
+width: 60%
+padding: 12 px; 20px;
+margin: 8px 0;
+box-sizing: border-box;
+border: none;
+background-color: #D2B48C;
+color: white;
+front-size: 17px;
+}
+#mask_ip{
+padding: 12 px; 20px;
+margin: 8px 0;
+box-sizing: border-box;
+border: none;
+background-color:#D2B48C;
+color: white;
+front-size: 17px;
+
+}
+#number_of_hosts{
+padding: 12 px; 20px;
+margin: 8px 0;
+box-sizing: border-box;
+border: none;
+background-color: #D2B48C;
+color: white;
+front-size: 17px;
 }
